@@ -8,11 +8,12 @@ public class PrimitiveDataTypes {
 		// integer
 		System.out.println("\n----------------------------\n->Integer Types:");
 		
+		/*
 		byte byteNum = 127; //				 	 8 bit/1byte: -128 -> 127 .
 		short shortNum = 32767; // 				16 bit/2byte: -32768 -> 32767 .
 		int intNum = 2147483647; // 			32 bit/4byte: 2147483648 -> 2147483647 .
 		long longNum = 9223372036854775807L; // 64 bit/8byte: 9223372036854775808 -> 9223372036854775807 .	
-		
+		*/
 
 		System.out.println("\n----------------------------\n->Floating type:");
 		
