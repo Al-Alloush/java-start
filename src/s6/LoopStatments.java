@@ -1,7 +1,5 @@
 package s6;
 
-import java.util.Iterator;
-
 public class LoopStatments {
 
 	public static void main(String[] args) {

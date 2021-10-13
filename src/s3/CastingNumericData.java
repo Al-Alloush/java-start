@@ -33,7 +33,16 @@ public class CastingNumericData {
         int value = (int) ((a*a) +  2*(a*b) + b*b);
         System.out.println("the value simple equation is : " + value);
         
+        
+        // hexadecimal number
+        short hexaInt = 0x64;
+        System.out.println(hexaInt);
+        // Binary number
+        int binary = 0b10011101;
+        System.out.println(binary);
 
+
+        
 	}
 
 }
