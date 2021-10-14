@@ -20,6 +20,13 @@ public class ClassOOP {
 		truck.functionToOverride();
 		
 		
+		// the Composition example:
+		Laptop laptop = new Laptop();
+		System.out.println(laptop);
+		// to get object inside object.
+		System.out.println(laptop.getProcessor().getBrand()); 
+		
+		
 
 	}
 
